@@ -5,7 +5,7 @@
         "illuminate/validation": "^5.1",
         "davidepastore/slim-validation": "^0.5.0",
         "firebase/php-jwt": "^5.0",
-        "phpmailer/phpmailer": "~5.2",
+        "phpmailer/phpmailer": "~6.1",
         "facebook/graph-sdk": "^5.1",
         "google/apiclient":"^2.0"
     },
